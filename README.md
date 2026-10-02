@@ -282,11 +282,11 @@
       <div class="info-list">
         <div class="info-item">
           <strong>📍 地點：</strong>
-          <span>台中市北屯區天津路三段57號</span>
+          <span>台中市旱溪東路一段472號</span>
         </div>
         <div class="info-item">
           <strong>💰 費用：</strong>
-          <span class="fee-badge">入場費 $200 打到破桌</span>
+          <span class="fee-badge">入場費 一局$100 最多300 打到破桌</span>
         </div>
       </div>
       <div class="rules-list">
@@ -295,6 +295,8 @@
         <p><span>◆</span> 臨時無法參加/延後請告知主揪</p>
         <p><span>◆</span> 請包容每一位玩家勿隨意批評</p>
         <p><span>◆</span> 開心最重要</p>
+                <p><span>◆</span>🔴 現場備有：紙、筆、狼人殺專用圓桌、自動發言計時器、充電座、KTV設備
+
       </div>
     </div>
 
